@@ -1,7 +1,6 @@
 package com.jikexueyuan.rpc.serialize;
 
 import java.io.Serializable;
-import java.lang.reflect.InvocationTargetException;
 
 /**
  * Created on 2015/8/17.
